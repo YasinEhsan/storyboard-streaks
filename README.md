@@ -1,12 +1,8 @@
 # iOS-Binge-Projects
 Learning iOS dev by completing 10+ mini-apps in a short period of time.
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [iOS-Binge-Projects](#ios-binge-projects)
-	- [Dice Generator](#dice-generator)
 
-<!-- /TOC -->
 - - - -
 
 ## Quizlet
