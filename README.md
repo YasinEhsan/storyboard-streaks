@@ -2,7 +2,14 @@
 Learning iOS dev by completing 10+ mini-apps in a short period of time.
 
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [iOS-Binge-Projects](#ios-binge-projects)
+	- [Quizlet](#quizlet)
+	- [Dice Generator](#dice-generator)
+	- [ReadMe boilerplate](#readme-boilerplate)
+
+<!-- /TOC -->
 - - - -
 
 ## Quizlet
