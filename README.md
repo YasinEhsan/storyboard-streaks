@@ -37,3 +37,8 @@ Learning iOS dev by completing 10+ mini-apps in a short period of time.
 
 > ![Walkthrough](demo/)
 >> [Goto Project](/)
+
+## License
+© 2018 Yasin Ehsan
+
+Licensed under the [Apache License](LICENSE).
