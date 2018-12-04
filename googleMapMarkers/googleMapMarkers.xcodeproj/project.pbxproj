@@ -10,7 +10,6 @@
 		2EB056DA295A630CF0B0477F /* Pods_googleMapMarkers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F783FA249B331367F24134D0 /* Pods_googleMapMarkers.framework */; };
 		AA90030221B7385D00540B39 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA90030121B7385D00540B39 /* AppDelegate.swift */; };
 		AA90030421B7385D00540B39 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA90030321B7385D00540B39 /* ViewController.swift */; };
-		AA90030721B7385D00540B39 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA90030521B7385D00540B39 /* Main.storyboard */; };
 		AA90030921B7385E00540B39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA90030821B7385E00540B39 /* Assets.xcassets */; };
 		AA90030C21B7385E00540B39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA90030A21B7385E00540B39 /* LaunchScreen.storyboard */; };
 		AA90031621B73D3500540B39 /* CustomMarkerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA90031521B73D3500540B39 /* CustomMarkerView.swift */; };
@@ -23,7 +22,6 @@
 		AA9002FE21B7385D00540B39 /* googleMapMarkers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = googleMapMarkers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA90030121B7385D00540B39 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AA90030321B7385D00540B39 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		AA90030621B7385D00540B39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AA90030821B7385E00540B39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA90030B21B7385E00540B39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA90030D21B7385E00540B39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -77,7 +75,6 @@
 			children = (
 				AA90030121B7385D00540B39 /* AppDelegate.swift */,
 				AA90030321B7385D00540B39 /* ViewController.swift */,
-				AA90030521B7385D00540B39 /* Main.storyboard */,
 				AA90030821B7385E00540B39 /* Assets.xcassets */,
 				AA90030A21B7385E00540B39 /* LaunchScreen.storyboard */,
 				AA90030D21B7385E00540B39 /* Info.plist */,
@@ -159,7 +156,6 @@
 			files = (
 				AA90030C21B7385E00540B39 /* LaunchScreen.storyboard in Resources */,
 				AA90030921B7385E00540B39 /* Assets.xcassets in Resources */,
-				AA90030721B7385D00540B39 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,14 +228,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		AA90030521B7385D00540B39 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				AA90030621B7385D00540B39 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		AA90030A21B7385E00540B39 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
