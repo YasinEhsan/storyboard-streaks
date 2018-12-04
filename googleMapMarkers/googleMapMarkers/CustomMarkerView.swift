@@ -1,11 +1,10 @@
 //
-//  CustomMarkerView.swift
-//  googlMapTutuorial2
+//  RestaurantPreviewView.swift
+//  googleMapMarkers
 //
-//  Created by Muskan on 12/17/17.
-//  Copyright © 2017 akhil. All rights reserved.
+//  Created by A. Rodgers on 12/4/18.
+//  Copyright © 2018 Yasin Ehsan. All rights reserved.
 //
-
 import Foundation
 import UIKit
 

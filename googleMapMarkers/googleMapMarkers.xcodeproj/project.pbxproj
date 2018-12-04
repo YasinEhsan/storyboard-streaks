@@ -14,6 +14,8 @@
 		AA90030921B7385E00540B39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA90030821B7385E00540B39 /* Assets.xcassets */; };
 		AA90030C21B7385E00540B39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA90030A21B7385E00540B39 /* LaunchScreen.storyboard */; };
 		AA90031621B73D3500540B39 /* CustomMarkerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA90031521B73D3500540B39 /* CustomMarkerView.swift */; };
+		AA90031821B73DA100540B39 /* RestaurantPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA90031721B73DA100540B39 /* RestaurantPreviewView.swift */; };
+		AA90031A21B73DD700540B39 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA90031921B73DD700540B39 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		AA90030B21B7385E00540B39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA90030D21B7385E00540B39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA90031521B73D3500540B39 /* CustomMarkerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomMarkerView.swift; sourceTree = "<group>"; };
+		AA90031721B73DA100540B39 /* RestaurantPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantPreviewView.swift; sourceTree = "<group>"; };
+		AA90031921B73DD700540B39 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 		E90E28030891A6BC98AA9B09 /* Pods-googleMapMarkers.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-googleMapMarkers.debug.xcconfig"; path = "Pods/Target Support Files/Pods-googleMapMarkers/Pods-googleMapMarkers.debug.xcconfig"; sourceTree = "<group>"; };
 		F783FA249B331367F24134D0 /* Pods_googleMapMarkers.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_googleMapMarkers.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -78,6 +82,8 @@
 				AA90030A21B7385E00540B39 /* LaunchScreen.storyboard */,
 				AA90030D21B7385E00540B39 /* Info.plist */,
 				AA90031521B73D3500540B39 /* CustomMarkerView.swift */,
+				AA90031721B73DA100540B39 /* RestaurantPreviewView.swift */,
+				AA90031921B73DD700540B39 /* DetailsVC.swift */,
 			);
 			path = googleMapMarkers;
 			sourceTree = "<group>";
@@ -215,9 +221,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA90031821B73DA100540B39 /* RestaurantPreviewView.swift in Sources */,
 				AA90030421B7385D00540B39 /* ViewController.swift in Sources */,
 				AA90030221B7385D00540B39 /* AppDelegate.swift in Sources */,
 				AA90031621B73D3500540B39 /* CustomMarkerView.swift in Sources */,
+				AA90031A21B73DD700540B39 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
