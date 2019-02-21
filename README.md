@@ -21,7 +21,8 @@ Learning iOS dev by completing 10+ mini-apps in a short period of time.
 
 *Hurdles:* Had a bug. Redid the project and it worked.
 
-<img src='http://g.recordit.co/eJKcADVP3b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+> <img src='http://g.recordit.co/eJKcADVP3b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+>> [Goto Project](/tipCalc2)
 
 ## Quizlet
 *Features:* Progress Bar. Track Score. End Modal.
@@ -31,7 +32,7 @@ Learning iOS dev by completing 10+ mini-apps in a short period of time.
 *Hurdles:* Placeholder- the blue TAG
 
 > ![Walkthrough](demo/quiz.gif)
->> [Goto Project](/)
+>> [Goto Project](/Quizlet)
 
 ## Dice Generator
 *Features*
