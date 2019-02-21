@@ -14,6 +14,7 @@
 		AA838285220C73AF00AAADFE /* TumblrTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA838284220C73AF00AAADFE /* TumblrTests.swift */; };
 		AA838290220C73AF00AAADFE /* TumblrUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA83828F220C73AF00AAADFE /* TumblrUITests.swift */; };
 		AA83829E220C741600AAADFE /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA83829D220C741600AAADFE /* PhotosViewController.swift */; };
+		AA8DFDB72214F02200017E92 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8DFDB62214F02200017E92 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AA83828F220C73AF00AAADFE /* TumblrUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TumblrUITests.swift; sourceTree = "<group>"; };
 		AA838291220C73AF00AAADFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA83829D220C741600AAADFE /* PhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
+		AA8DFDB62214F02200017E92 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				AA83829D220C741600AAADFE /* PhotosViewController.swift */,
 				AA83826F220C73AE00AAADFE /* AppDelegate.swift */,
 				AA838273220C73AE00AAADFE /* Main.storyboard */,
+				AA8DFDB62214F02200017E92 /* TableViewCell.swift */,
 				AA838276220C73AF00AAADFE /* Assets.xcassets */,
 				AA838278220C73AF00AAADFE /* LaunchScreen.storyboard */,
 				AA83827B220C73AF00AAADFE /* Info.plist */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA8DFDB72214F02200017E92 /* TableViewCell.swift in Sources */,
 				AA838270220C73AE00AAADFE /* AppDelegate.swift in Sources */,
 				AA83829E220C741600AAADFE /* PhotosViewController.swift in Sources */,
 			);
