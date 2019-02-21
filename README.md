@@ -22,6 +22,7 @@ Learning iOS dev by completing 10+ mini-apps in a short period of time.
 *Hurdles:* Had a bug. Redid the project and it worked.
 
 <img src='http://g.recordit.co/eJKcADVP3b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 >> [Check out Project](/tipCalc2)
 
 ## Quizlet
@@ -48,7 +49,7 @@ Learning iOS dev by completing 10+ mini-apps in a short period of time.
 *Hurdles:*
 
 > ![Walkthrough](demo/)
->> [Goto Project](/)
+>> [Check out Project](/)
 
 ## License
 © 2018 Yasin Ehsan
