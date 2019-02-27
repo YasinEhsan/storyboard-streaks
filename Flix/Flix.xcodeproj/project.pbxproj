@@ -12,6 +12,7 @@
 		AAC78B01221F717200CD33AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAC78B00221F717200CD33AC /* Assets.xcassets */; };
 		AAC78B04221F717200CD33AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAC78B02221F717200CD33AC /* LaunchScreen.storyboard */; };
 		AAC78B0C221F724300CD33AC /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC78B0B221F724300CD33AC /* MoviesViewController.swift */; };
+		AAEBFE17222649090034CCF5 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEBFE16222649090034CCF5 /* MovieCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AAC78B03221F717200CD33AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAC78B05221F717200CD33AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AAC78B0B221F724300CD33AC /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
+		AAEBFE16222649090034CCF5 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				AAC78B0B221F724300CD33AC /* MoviesViewController.swift */,
 				AAC78AF9221F717100CD33AC /* AppDelegate.swift */,
 				AAC78AFD221F717100CD33AC /* Main.storyboard */,
+				AAEBFE16222649090034CCF5 /* MovieCell.swift */,
 				AAC78B00221F717200CD33AC /* Assets.xcassets */,
 				AAC78B02221F717200CD33AC /* LaunchScreen.storyboard */,
 				AAC78B05221F717200CD33AC /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				AAC78AFA221F717100CD33AC /* AppDelegate.swift in Sources */,
 				AAC78B0C221F724300CD33AC /* MoviesViewController.swift in Sources */,
+				AAEBFE17222649090034CCF5 /* MovieCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
