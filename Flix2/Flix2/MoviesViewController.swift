@@ -8,7 +8,12 @@
 
 import UIKit
 
-class MoviesViewController: UIViewController {
+class MoviesViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
+   
+    
+    
+    @IBOutlet weak var tableView: UITableView!
+    var movies = [[String:Any]]()
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -24,7 +29,10 @@ class MoviesViewController: UIViewController {
             } else if let data = data {
                 let dataDictionary = try! JSONSerialization.jsonObject(with: data, options: []) as! [String: Any]
                 
+                self.movies = dataDictionary["results"] as! [[String:Any]]
+                print("wsd")
                 print(dataDictionary)
+                
                 
                 // TODO: Get the array of movies
                 // TODO: Store the movies in a property to use elsewhere
@@ -33,6 +41,19 @@ class MoviesViewController: UIViewController {
             }
         }
         task.resume()
+    }
+    
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        
+        return 50
+    }
+    
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        
+        let cell = UITableViewCell()
+        
+        cell.textLabel.text = "row: \()"
+        return cell
     }
     
 
