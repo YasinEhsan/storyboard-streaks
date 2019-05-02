@@ -1,7 +1,7 @@
 # storyboard-streaks
 Mastering iOS development by completing 30+ apps in a short period of time.
 
-## Contents
+### Contents
 - [Problem-Driven Projects](#Problem-Driven-Projects)
 - [Feature-Driven Projects](#Feature-Driven-Projects)
 
@@ -10,16 +10,16 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 - [Boilerplate](#Boilerplate)
 
 
-## Problem-Driven Projects
+# Problem-Driven Projects
 
-## Feature-Driven Projects
+# Feature-Driven Projects
 
-## Takeaways
+# Takeaways
 
-## Git 
+# Git 
 ### Branch + Merge
 - **Create Branch:** "git checkout ____" creates subbranch from current head
-- I am calling the head in which a subbranch is created from a parent. It could be called master, feature/..., releases, etc
+- I am calling the sub-branch's origin branch parent. It could be called master, feature/..., releases, etc
 - Parent branches shouldn't be tweaked while work is being done in subbranch
 - **Merge Branch:** "git checkout" to parent branch. And then "git Merge" with the branch you currently working on. This merges the working branch with the parent branch. Afterwards checkout to working branch and merge with parent. The order is important.
 - In the network graphics, working branches should be ahead of main branch before any merging. After merging, all tags should align with parent branch being a straight line all along branching process.
@@ -44,11 +44,11 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 
 ## Boilerplate
-*Features:*
+*Description*
 
-*Takeaways:*
+*Technologies*
 
-*Hurdles:*
+*Challenges*
 
 > ![Walkthrough](demo/)
 >> [Check out Project](/)
