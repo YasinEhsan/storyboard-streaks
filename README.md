@@ -2,12 +2,12 @@
 Mastering iOS development by completing 30+ apps in a short period of time.
 
 ## Contents
-- [Problem-Driven Projects](# Problem-Driven-Projects)
-- [Feature-Driven Projects](# Feature-Driven-Projects)
+- [Problem-Driven Projects](#Problem-Driven-Projects)
+- [Feature-Driven Projects](#Feature-Driven-Projects)
 
-- [Takeaways](# Takeaways)
-- [Git](# Git)
-- [Boilerplate](# Boilerplate)
+- [Takeaways](#Takeaways)
+- [Git](#Git)
+- [Boilerplate](#Boilerplate)
 
 
 ## Problem-Driven Projects
