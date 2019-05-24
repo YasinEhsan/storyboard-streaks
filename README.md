@@ -15,7 +15,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 # Feature-Driven Projects
 
 # Debug-Notes
-- [Demo](img/swiftv])_error: SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2._  [Stackoverflow Link](https://stackoverflow.com/questions/55585062/xcode-keeps-showing-1-swift-version-5-0-is-unsupported-supported-versions-a)
+- ![Demo](img/swiftv])_error: SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2._  [Stackoverflow Link](https://stackoverflow.com/questions/55585062/xcode-keeps-showing-1-swift-version-5-0-is-unsupported-supported-versions-a)
 
 
 # Git 
