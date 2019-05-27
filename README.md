@@ -14,15 +14,17 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 # Feature-Driven Projects
 ## Quick Chat
-**Desc** Msg app w user profile, real-time chat and saved sessions.
-**Stack** Swift 4.2 and Google Firebase Auth.
-**Issues** Running boiler on newer iPhone(Xs) and Xcode.
+*Desc* Msg app w user profile, real-time chat and saved sessions.
+
+*Stack* Swift 4.2 and Google Firebase Auth.
+
+*Issues* Running boiler on newer iPhone(Xs) and Xcode.
 
 > ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
 ![Walkthrough](https://media.giphy.com/media/eMbT3ythr2paAECoNq/giphy.gif)
 ![Walkthrough](https://media.giphy.com/media/dyFdCbF2taTzKVcjyA/giphy.gif)
 
->> [Check out Project](/)
+>> [Repo](/https://github.com/YasinEhsan/quick-chat
 
 # Debug
 - _error: SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2._  
@@ -59,16 +61,16 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 
 ## Boilerplate
-*Description*
+*Desc*
 
-*Technologies*
+*Stack*
 
-*Challenges*
+*Issues*
 
 > ![Walkthrough]()
 ![Walkthrough]()
 ![Walkthrough]()
->> [Check out Project](/)
+>> [Repo](/)
 
 ## License
 © 2018 Yasin Ehsan
