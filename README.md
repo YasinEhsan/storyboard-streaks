@@ -5,7 +5,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 - [Problem-Driven Projects](#Problem-Driven-Projects)
 - [Feature-Driven Projects](#Feature-Driven-Projects)
 
-- [Debug-Notes](#Debug-Notes)
+- [Debug-Notes](#Debug)
 - [Git](#Git)
 - [Boilerplate](#Boilerplate)
 
@@ -13,11 +13,20 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 # Problem-Driven Projects
 
 # Feature-Driven Projects
+## Quick Chat
+**Desc** Msg app w user profile, real-time chat and saved sessions.
+**Stack** Swift 4.2 and Google Firebase Auth.
+**Issues** Running boiler on newer iPhone(Xs) and Xcode.
 
-# Debug-Notes
+> ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
+> ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
+
+>> [Check out Project](/)
+
+# Debug
 - _error: SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2._  
     - Fix : .xcw workspace > blue pod/proj file > build settings > swift lang > change to 4.2 or desirable 
-- _error: Multiple commands produce _ 
+- _error: Multiple commands produce_ 
     - Fix : Open target -> Build phases > Copy Bundle Resources and remove info.plist from there.
 
 
