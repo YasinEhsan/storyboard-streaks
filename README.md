@@ -19,7 +19,8 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 **Issues** Running boiler on newer iPhone(Xs) and Xcode.
 
 > ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
-> ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
+![Walkthrough](https://media.giphy.com/media/eMbT3ythr2paAECoNq/giphy.gif)
+![Walkthrough](https://media.giphy.com/media/dyFdCbF2taTzKVcjyA/giphy.gif)
 
 >> [Check out Project](/)
 
@@ -64,7 +65,9 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 *Challenges*
 
-> ![Walkthrough](demo/)
+> ![Walkthrough]()
+![Walkthrough]()
+![Walkthrough]()
 >> [Check out Project](/)
 
 ## License
