@@ -7,7 +7,6 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 - [Debug](#Debug)
 - [Git](#Git)
-- [Boiler](#Boilerplate)
 
 
 # Problem-Driven Projects
@@ -61,7 +60,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 
 
-## Boilerplate
+# README Boilerplate
 - **Desc**
 
 - **Stack**
@@ -73,7 +72,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 ![Walkthrough]()
 [Repo]()
 
-## License
+# License
 © 2018 Yasin Ehsan
 
 Licensed under the [Apache License](LICENSE).
