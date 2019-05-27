@@ -20,11 +20,16 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 - **Issues** Running boiler on newer iPhone(Xs) and Xcode.
 
-- ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
+[Repo](https://github.com/YasinEhsan/quick-chat)
+
+> ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
 ![Walkthrough](https://media.giphy.com/media/eMbT3ythr2paAECoNq/giphy.gif)
 ![Walkthrough](https://media.giphy.com/media/dyFdCbF2taTzKVcjyA/giphy.gif)
 
+[Repo](https://github.com/YasinEhsan/quick-chat)
 - [Repo](https://github.com/YasinEhsan/quick-chat)
+> [Repo](https://github.com/YasinEhsan/quick-chat)
+
 
 # Debug
 - _error: SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2._  
