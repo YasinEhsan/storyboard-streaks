@@ -15,7 +15,9 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 # Feature-Driven Projects
 ## Quick Chat
 **Desc** Msg app w user profile, real-time chat and saved sessions.
+
 **Stack** Swift 4.2 and Google Firebase Auth.
+
 **Issues** Running boiler on newer iPhone(Xs) and Xcode.
 
 > ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
