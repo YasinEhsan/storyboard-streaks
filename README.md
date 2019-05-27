@@ -5,9 +5,9 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 - [Problem-Driven Projects](#Problem-Driven-Projects)
 - [Feature-Driven Projects](#Feature-Driven-Projects)
 
-- [Debug-Notes](#Debug)
+- [Debug](#Debug)
 - [Git](#Git)
-- [Boilerplate](#Boilerplate)
+- [Boiler](#Boilerplate)
 
 
 # Problem-Driven Projects
