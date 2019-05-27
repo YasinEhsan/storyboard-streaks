@@ -20,15 +20,11 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 - **Issues** Running boiler on newer iPhone(Xs) and Xcode.
 
-[Repo](https://github.com/YasinEhsan/quick-chat)
-
-> ![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
+![Walkthrough](https://media.giphy.com/media/YmWRtu4uTtpNdMmzby/giphy.gif)
 ![Walkthrough](https://media.giphy.com/media/eMbT3ythr2paAECoNq/giphy.gif)
 ![Walkthrough](https://media.giphy.com/media/dyFdCbF2taTzKVcjyA/giphy.gif)
 
 [Repo](https://github.com/YasinEhsan/quick-chat)
-- [Repo](https://github.com/YasinEhsan/quick-chat)
-> [Repo](https://github.com/YasinEhsan/quick-chat)
 
 
 # Debug
@@ -66,16 +62,16 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 
 ## Boilerplate
-*Desc*
+- **Desc**
 
-*Stack*
+- **Stack**
 
-*Issues*
+- **Issues**
 
-> ![Walkthrough]()
 ![Walkthrough]()
 ![Walkthrough]()
->> [Repo](/)
+![Walkthrough]()
+[Repo]()
 
 ## License
 © 2018 Yasin Ehsan
