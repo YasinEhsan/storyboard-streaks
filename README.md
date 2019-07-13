@@ -18,7 +18,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 - **Stack** xcode 10.2 swift 5
 
 - **Takeaway** 
-- uibutton > attributes inspctor > system item > deault buttons
+    - uibutton > attributes inspctor > system item > deault buttons
 
 ### send data from add table VC
 ```Swift
