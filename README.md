@@ -24,7 +24,7 @@ Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lea
   <img src="assets/zave-wireframe.jpg"  width="600">
   <img src="assets/zave-marvel.gif"  width="295">
   <img src="assets/zave.gif"  width="400">
-</div><br/><br/>
+</div><br/>
 
 More on Zave
 - [My Presentation (YouTube)](https://www.youtube.com/watch?v=6r5Ytpu9XV8)
@@ -32,7 +32,7 @@ More on Zave
 - [Visit Project Repo](https://github.com/ZaveApp/product)
 - [CodePath Bootcamp](https://codepath.org/)
 
-
+<br/>
 ## Alamo
 Overall top 10 from 550+ Capital One Software Engineering Interns competing in a hackathon during onboarding week. Built using Swift and Python(Flask), SQLite and Zeplin design.<br/> <br/>
 
@@ -46,15 +46,14 @@ Overall top 10 from 550+ Capital One Software Engineering Interns competing in a
   <img src="assets/alamo-layout.jpg"  width="400">
   <!-- <img src="assets/z.gif"  width="295"> -->
   <img src="assets/alamo.gif"  width="400">
-</div><br/><br/>
+</div><br/>
 
 More on Alamo
 - [Pitch Deck](assets/alamo-ppt)
 - Project repo n/a (corporate Github)
 
-
+<br/>
 ## Uplift
-
 Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed with 100+ team submissions. STACK: Swift, Google Cloud, Watson AI, Figma design.<br/> <br/>
 
 - **Problem** People want to leave a positive mark before they rest forever.
@@ -68,12 +67,12 @@ Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed 
   <img src="assets/upliftPlan.gif"  width="400">
   <!-- <img src="assets/z.gif"  width="295"> -->
   <img src="assets/uplift.gif"  width="400">
-</div><br/><br/>
+</div><br/>
 
 More on Uplift
 - [Visit Project Repo](https://github.com/matthewbrod01/Uplift)
 
-
+<br/>
 ## Forcast Fit
 
 Awarded private tour of Google HQ for best implementation of Google Cloud and most innovative/quirky hack from 40+ teams at Cooper Union hackathon. STACK: Swift, Google Firebase + AutoML, Sketch design. <br/><br/>
@@ -88,7 +87,7 @@ Awarded private tour of Google HQ for best implementation of Google Cloud and mo
   <img src="assets/forcast.gif"  width="400">
   <!-- <img src="assets/"  width="295"> -->
   <!-- <img src="assets/"  width="400"> -->
-</div><br/><br/>
+</div><br/>
 
 More on Forcast Fit
 - [Visit Project Repo](https://github.com/YasinEhsan/forcast-fit)
