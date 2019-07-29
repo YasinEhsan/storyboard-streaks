@@ -10,7 +10,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 
 # Problem-Driven Projects
-## Split Ride-Share
+## Split Uber
 
 Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. Built using Swift, Google Cloud, and Zeplin design. <br/> <br/>
 
@@ -21,8 +21,8 @@ Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lea
 - **Iteration** Create an algorithm that finds the the midpoint meetup place between shared commuters. This way no rider feels like they are doing more "work" than the others.
 
 <div style="display: inline-block;">
-  <img src="assets/zave-wireframe.jpg"  width="600">
-  <img src="assets/zave-marvel.gif"  width="295">
+  <img src="assets/zave-wireframe.jpg"  width="400">
+  <!-- <img src="assets/zave-marvel.gif"  width="295"> -->
   <img src="assets/zave.gif"  width="400">
 </div><br/>
 
@@ -103,6 +103,7 @@ More on Forcast Fit
 
 
 - **Iteration** Gamify carbon score with others in proximity.
+<br/>
 
 More on Eternity
 - [App Demo](https://www.youtube.com/watch?v=MBVfbk3DaxU)
@@ -118,7 +119,7 @@ More on Eternity
 - **Iteration** Geofence neighbor-net residences around firms to reserve parking for corporate employees.
 
 <div style="display: inline-block;">
-  <img src="assets/homedrive1.gif"  width="400">
+  <img src="assets/homedrive1.gif"  width="300">
   <!-- <img src="assets/"  width="295"> -->
   <!-- <img src="assets/"  width="400"> -->
 </div><br/>

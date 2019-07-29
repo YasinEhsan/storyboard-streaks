@@ -7,7 +7,6 @@
 
 <div style="display: inline-block;">
   <img src="assets/"  width="400">
-  <!-- <img src="assets/"  width="295"> -->
   <img src="assets/"  width="400">
 </div><br/>
 
