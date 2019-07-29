@@ -10,7 +10,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 
 # Problem-Driven Projects
-## Split Uber
+## Split Ride-Share
 
 Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. Built using Swift, Google Cloud, and Zeplin design. <br/> <br/>
 
@@ -39,7 +39,7 @@ Overall top 10 from 550+ Capital One Software Engineering Interns competing in a
 
 - **Problem** In a world of scale and a battle of margins, small cash businesses are taking the biggest hits with credit card minimums or ATM fees for customer withdrawals.
 
-- **Solution** Connect to trade cash(providers) for Venmo(requesters) w/o any fees.
+- **Solution** Alamo connects to trade cash(providers) for Venmo(requesters) w/o any fees.
 
 - **Iteration** Increase reliability that both parties deliver by building a credit-score-like system.
 
@@ -99,14 +99,32 @@ More on Forcast Fit
 ## Carbon Footprint
 - **Problem** Depleting Earth's non-renewable resources have a serious foreseeable cost.
 
-- **Solution** Display user’s contribution in depleting Earth’s natural resources. Used Apple’s CoreML for grocery scan image recognition, Apple’s CoreLocation to calculate distance and speed of transportation and Google Firebase to store gas/electricity bills.
+- **Solution** Eternity displays user’s contribution in depleting Earth’s natural resources. Used Apple’s CoreML for grocery scan image recognition, Apple’s CoreLocation to calculate distance and speed of transportation and Google Firebase to store gas/electricity bills.
 
 
 - **Iteration** Gamify carbon score with others in proximity.
 
-More on
+More on Eternity
 - [App Demo](https://www.youtube.com/watch?v=MBVfbk3DaxU)
 - [Visit Project Repo](https://github.com/YasinEhsan/eternity)
+
+<br/>
+
+## Rent Parking
+- **Problem** A daily frustration of New York drivers is having difficulty finding parking spaces.
+
+- **Solution** HomeDrive connects drivers in need of parking spaces to homeowners willing to rent out their garage/driveway.
+
+- **Iteration** Geofence neighbor-net residences around firms to reserve parking for corporate employees.
+
+<div style="display: inline-block;">
+  <img src="assets/homedrive1.gif"  width="400">
+  <!-- <img src="assets/"  width="295"> -->
+  <!-- <img src="assets/"  width="400"> -->
+</div><br/>
+
+More on HomeDrive
+- [Visit Project Repo](https://github.com/YasinEhsan/HomeDrive)
 
 <br/>
 
