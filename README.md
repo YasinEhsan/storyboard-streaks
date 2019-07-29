@@ -22,9 +22,9 @@ Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lea
 
 <!-- ### Plan -> Prod -->
 <div style="display: inline-block;">
-  <img src="assets/zave-plan.gif"  width="500">
+  <img src="assets/zave-plan.gif"  width="525">
   <!-- <img src="assets/zave-plan.gif"  width="295"> -->
-  <img src="assets/zave.gif"  width="350">
+  <img src="assets/zave.gif"  width="325">
 </div><br/>
 
 More on Zave
@@ -45,9 +45,9 @@ Overall top 10 from 550+ Capital One Software Engineering Interns competing in a
 - **Iteration** Increase reliability that both parties deliver by building a credit-score-like system.
 
 <div style="display: inline-block;">
-  <img src="assets/alamo-plan2.gif"  width="400">
+  <img src="assets/alamo-plan2.gif"  width="450">
   <!-- <img src="assets/z.gif"  width="295"> -->
-  <img src="assets/alamo.gif"  width="400">
+  <img src="assets/alamo.gif"  width="350">
 </div><br/>
 
 More on Alamo
@@ -67,9 +67,9 @@ Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed 
 
 
 <div style="display: inline-block;">
-  <img src="assets/upliftPlan.gif"  width="400">
+  <img src="assets/upliftPlan.gif"  width="425">
   <!-- <img src="assets/z.gif"  width="295"> -->
-  <img src="assets/uplift.gif"  width="400">
+  <img src="assets/uplift.gif"  width="375">
 </div><br/>
 
 More on Uplift
