@@ -21,7 +21,7 @@ Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lea
 - **Iteration** Create an algorithm that finds the the midpoint meetup place between shared commuters. This way no rider feels like they are doing more "work" than the others.
 
 <div style="display: inline-block;">
-  <img src="assets/zave-marvel.gif"  width="300">
+  <img src="assets/zave-marvel.gif"  width="325">
   <img src="assets/zave.gif"  width="400">
   <img src="assets/zave-wireframe.jpg"  width="600">
 </div>
