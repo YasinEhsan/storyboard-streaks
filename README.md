@@ -12,7 +12,9 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 # Problem-Driven Projects
 ## Zave
 
-Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath Bootcamp](https://codepath.org/) <br/> <br/>
+Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath Bootcamp](https://codepath.org/)
+
+STACK: Swift, Google Cloud, Zeplin design. <br/> <br/>
 
 - **Problem** We frequently crave a premium travel experience offered by ride-sharing apps but we are going broke.
 
@@ -33,7 +35,7 @@ More on Zave
 
 
 ## Alamo
-Overall top 10 from 550+ Capital One Software Engineering Interns competing in a hackathon during onboarding week. <br/> <br/>
+Overall top 10 from 550+ Capital One Software Engineering Interns competing in a hackathon during onboarding week. Built using Swift and Python(Flask), SQLite and Zeplin design.<br/> <br/>
 
 - **Problem** In a world of scale and a battle of margins, small cash businesses are taking the biggest hits with credit card minimums or ATM fees for customer withdrawals.
 
@@ -42,20 +44,31 @@ Overall top 10 from 550+ Capital One Software Engineering Interns competing in a
 - **Iteration** Increase reliability that both parties deliver by building a credit-score-like system.
 
 <div style="display: inline-block;">
-  <img src="assets/alamo-layout.jpg"  width="500">
+  <img src="assets/alamo-layout.jpg"  width="400">
   <!-- <img src="assets/z.gif"  width="295"> -->
   <img src="assets/alamo.gif"  width="400">
 </div><br/><br/>
 
 More on Alamo
 - [Pitch Deck](assets/alamo-ppt)
-- Project repo in corporate Github
+- Project repo n/a (corporate Github)
 
 
-More on Zave
-- [My Presentation (YouTube)](https://www.youtube.com/watch?v=6r5Ytpu9XV8)
-- [Pitch Deck](assets/zave-ppt)
-- [Visit Project Repo](https://github.com/ZaveApp/product)
+## Uplift
+
+Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed with 100+ team submissions. STACK: Swift, Google Cloud, Zeplin design.<br/> <br/>
+
+- **Problem** People want to leave a positive mark before they rest forever.
+
+- **Solution** A platform where people at risk-of-death can document and share their life stories to encourage, inspire, and uplift viewers.
+
+- **Iteration**
+
+![Walkthrough]()
+![Walkthrough]()
+![Walkthrough]()
+<!-- [Visit Project Repo]() -->
+
 
 
 
