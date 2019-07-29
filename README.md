@@ -11,22 +11,23 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 # Problem-Driven Projects
 ## Zave
+
+Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath](https://codepath.org/) </br>
+
 - **Problem** We frequently crave a premium travel experience offered by ride-sharing apps but we are going broke.
 
 - **Solution** Zave connects ride-share users to split Uber/Lyft at metro price by connecting local ride-shares with shared destinations.
 
 - **Iteration** Create an algorithm that finds the the midpoint meetup place between shared commuters. This way no rider feels like they are doing more "work" than the others.
 
-Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath](https://codepath.org/)
-
 <!-- ![Walkthrough](assets/zave.gif) -->
 <div style="display: inline-block;">
 
 <!-- ![Walkthrough](assets/zave-wireframe.jpg) -->
 
-<img src="assets/zave-wireframe.jpg"  width="600">
+<img src="assets/zave-wireframe.jpg"  width="400">
 <img src="assets/zave-marvel.gif"  width="200">
-<img src="assets/zave.gif"  width="400">
+<img src="assets/zave.gif"  width="300">
 </div>
 
 More on Zave
