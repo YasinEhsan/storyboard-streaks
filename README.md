@@ -12,7 +12,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 # Problem-Driven Projects
 ## Zave
 
-Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath-Bootcamp](https://codepath.org/) Built using Swift, Google Cloud, and Zeplin design. <br/> <br/>
+Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. Built using Swift, Google Cloud, and Zeplin design. <br/> <br/>
 
 - **Problem** We frequently crave a premium travel experience offered by ride-sharing apps but we are going broke.
 
@@ -30,6 +30,7 @@ More on Zave
 - [My Presentation (YouTube)](https://www.youtube.com/watch?v=6r5Ytpu9XV8)
 - [Pitch Deck](assets/zave-ppt)
 - [Visit Project Repo](https://github.com/ZaveApp/product)
+- [CodePath Bootcamp](https://codepath.org/)
 
 
 ## Alamo
@@ -69,9 +70,28 @@ Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed 
   <img src="assets/uplift.gif"  width="400">
 </div><br/><br/>
 
-[Visit Project Repo](https://github.com/matthewbrod01/Uplift)
+More on Uplift
+- [Visit Project Repo](https://github.com/matthewbrod01/Uplift)
 
 
+## Forcast Fit
+
+Awarded private tour of Google HQ for best implementation of Google Cloud and most innovative/quirky hack from 40+ teams at Cooper Union hackathon. STACK: Swift, Google Firebase + AutoML, Sketch design. <br/><br/>
+
+- **Problem** A good amount of time and stress happens over what to wear in the morning.
+
+- **Solution** App that preselect wardrobe outfits based on the weather days in advance.
+
+- **Iteration** Superimpose outfit on a photo of the user to get a mirror-like experience.
+
+<div style="display: inline-block;">
+  <img src="assets/forcast.gif"  width="400">
+  <!-- <img src="assets/"  width="295"> -->
+  <!-- <img src="assets/"  width="400"> -->
+</div><br/><br/>
+
+More on Forcast Fit
+- [Visit Project Repo](https://github.com/YasinEhsan/forcast-fit)
 
 
 
