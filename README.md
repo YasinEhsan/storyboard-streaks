@@ -12,9 +12,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 # Problem-Driven Projects
 ## Zave
 
-Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath Bootcamp](https://codepath.org/)
-
-STACK: Swift, Google Cloud, Zeplin design. <br/> <br/>
+Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath-Bootcamp](https://codepath.org/) Built using Swift, Google Cloud, and Zeplin design. <br/> <br/>
 
 - **Problem** We frequently crave a premium travel experience offered by ride-sharing apps but we are going broke.
 
@@ -56,18 +54,22 @@ More on Alamo
 
 ## Uplift
 
-Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed with 100+ team submissions. STACK: Swift, Google Cloud, Zeplin design.<br/> <br/>
+Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed with 100+ team submissions. STACK: Swift, Google Cloud, Watson AI, Figma design.<br/> <br/>
 
 - **Problem** People want to leave a positive mark before they rest forever.
 
 - **Solution** A platform where people at risk-of-death can document and share their life stories to encourage, inspire, and uplift viewers.
 
-- **Iteration**
+- **Iteration** Able to crowdsource money to rescue civilians and refugees in war zones.
 
-![Walkthrough]()
-![Walkthrough]()
-![Walkthrough]()
-<!-- [Visit Project Repo]() -->
+
+<div style="display: inline-block;">
+  <img src="assets/upliftPlan.gif"  width="400">
+  <!-- <img src="assets/z.gif"  width="295"> -->
+  <img src="assets/uplift.gif"  width="400">
+</div><br/><br/>
+
+[Visit Project Repo](https://github.com/matthewbrod01/Uplift)
 
 
 
