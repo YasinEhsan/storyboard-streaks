@@ -20,10 +20,14 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath](https://codepath.org/)
 
 <!-- ![Walkthrough](assets/zave.gif) -->
-<img src="assets/zave.gif"  width="400">
+<div style="display: inline-block;">
+
 <!-- ![Walkthrough](assets/zave-wireframe.jpg) -->
-<img src="assets/zave-wireframe.jpg"  width="400">
-<!-- ![Walkthrough]() -->
+
+<img src="assets/zave-wireframe.jpg"  width="600">
+<img src="assets/zave-marvel.gif"  width="200">
+<img src="assets/zave.gif"  width="400">
+</div>
 
 More on Zave
 - [Pitch Deck](assets/zave-ppt)
