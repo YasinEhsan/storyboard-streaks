@@ -45,6 +45,7 @@ Overall top 10 from 550+ Capital One Software Engineering Interns competing in a
 - **Iteration** Increase reliability that both parties deliver by building a credit-score-like system.
 
 *Plan -> Prod*
+<br/>
 <div style="display: inline-block;">
   <img src="assets/alamo-plan2.gif"  width="500">
   <!-- <img src="assets/z.gif"  width="295"> -->
