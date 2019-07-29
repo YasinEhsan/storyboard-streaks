@@ -20,9 +20,10 @@ Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lea
 
 - **Iteration** Create an algorithm that finds the the midpoint meetup place between shared commuters. This way no rider feels like they are doing more "work" than the others.
 
+### Plan --> Prod
 <div style="display: inline-block;">
-  <img src="assets/zave-wireframe.jpg"  width="400">
-  <!-- <img src="assets/zave-marvel.gif"  width="295"> -->
+  <img src="assets/zave-plan.gif"  width="400">
+  <!-- <img src="assets/zave-plan.gif"  width="295"> -->
   <img src="assets/zave.gif"  width="400">
 </div><br/>
 
@@ -44,7 +45,7 @@ Overall top 10 from 550+ Capital One Software Engineering Interns competing in a
 - **Iteration** Increase reliability that both parties deliver by building a credit-score-like system.
 
 <div style="display: inline-block;">
-  <img src="assets/alamo-layout.jpg"  width="400">
+  <img src="assets/alamo-plan2.gif"  width="400">
   <!-- <img src="assets/z.gif"  width="295"> -->
   <img src="assets/alamo.gif"  width="400">
 </div><br/>
