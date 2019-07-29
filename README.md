@@ -10,7 +10,7 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 
 # Problem-Driven Projects
-## Zave
+## Split Uber
 
 Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. Built using Swift, Google Cloud, and Zeplin design. <br/> <br/>
 
@@ -33,7 +33,8 @@ More on Zave
 - [CodePath Bootcamp](https://codepath.org/)
 
 <br/>
-## Alamo
+
+## Trade Cash
 Overall top 10 from 550+ Capital One Software Engineering Interns competing in a hackathon during onboarding week. Built using Swift and Python(Flask), SQLite and Zeplin design.<br/> <br/>
 
 - **Problem** In a world of scale and a battle of margins, small cash businesses are taking the biggest hits with credit card minimums or ATM fees for customer withdrawals.
@@ -53,7 +54,8 @@ More on Alamo
 - Project repo n/a (corporate Github)
 
 <br/>
-## Uplift
+
+## Final Message
 Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed with 100+ team submissions. STACK: Swift, Google Cloud, Watson AI, Figma design.<br/> <br/>
 
 - **Problem** People want to leave a positive mark before they rest forever.
@@ -73,8 +75,8 @@ More on Uplift
 - [Visit Project Repo](https://github.com/matthewbrod01/Uplift)
 
 <br/>
-## Forcast Fit
 
+## Outfit Selector
 Awarded private tour of Google HQ for best implementation of Google Cloud and most innovative/quirky hack from 40+ teams at Cooper Union hackathon. STACK: Swift, Google Firebase + AutoML, Sketch design. <br/><br/>
 
 - **Problem** A good amount of time and stress happens over what to wear in the morning.
@@ -91,6 +93,23 @@ Awarded private tour of Google HQ for best implementation of Google Cloud and mo
 
 More on Forcast Fit
 - [Visit Project Repo](https://github.com/YasinEhsan/forcast-fit)
+
+<br/>
+
+## Carbon Footprint
+- **Problem** Depleting Earth's non-renewable resources have a serious foreseeable cost.
+
+- **Solution** Display user’s contribution in depleting Earth’s natural resources. Used Apple’s CoreML for grocery scan image recognition, Apple’s CoreLocation to calculate distance and speed of transportation and Google Firebase to store gas/electricity bills.
+
+
+- **Iteration** Gamify carbon score with others in proximity.
+
+More on
+- [App Demo](https://www.youtube.com/watch?v=MBVfbk3DaxU)
+- [Visit Project Repo](https://github.com/YasinEhsan/eternity)
+
+<br/>
+
 
 
 
