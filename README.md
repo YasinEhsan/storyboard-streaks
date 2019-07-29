@@ -21,15 +21,43 @@ Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lea
 - **Iteration** Create an algorithm that finds the the midpoint meetup place between shared commuters. This way no rider feels like they are doing more "work" than the others.
 
 <div style="display: inline-block;">
-  <img src="assets/zave-marvel.gif"  width="305">
-  <img src="assets/zave.gif"  width="400">
   <img src="assets/zave-wireframe.jpg"  width="600">
+  <img src="assets/zave-marvel.gif"  width="295">
+  <img src="assets/zave.gif"  width="400">
 </div><br/><br/>
 
-*More on Zave*
-- [Pitch Deck](assets/zave-ppt)
+More on Zave
 - [My Presentation (YouTube)](https://www.youtube.com/watch?v=6r5Ytpu9XV8)
+- [Pitch Deck](assets/zave-ppt)
 - [Visit Project Repo](https://github.com/ZaveApp/product)
+
+
+## Alamo
+Overall top 10 from 550+ Capital One Software Engineering Interns competing in a hackathon during onboarding week. <br/> <br/>
+
+- **Problem** In a world of scale and a battle of margins, small cash businesses are taking the biggest hits with credit card minimums or ATM fees for customer withdrawals.
+
+- **Solution** Connect to trade cash(providers) for Venmo(requesters) w/o any fees.
+
+- **Iteration** Increase reliability that both parties deliver by building a credit-score-like system.
+
+<div style="display: inline-block;">
+  <img src="assets/alamo-layout.jpg"  width="500">
+  <!-- <img src="assets/z.gif"  width="295"> -->
+  <img src="assets/alamo.gif"  width="400">
+</div><br/><br/>
+
+More on Alamo
+- [Pitch Deck](assets/alamo-ppt)
+- Project repo in corporate Github
+
+
+More on Zave
+- [My Presentation (YouTube)](https://www.youtube.com/watch?v=6r5Ytpu9XV8)
+- [Pitch Deck](assets/zave-ppt)
+- [Visit Project Repo](https://github.com/ZaveApp/product)
+
+
 
 
 
