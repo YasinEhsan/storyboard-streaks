@@ -21,6 +21,7 @@ Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lea
 - **Iteration** Create an algorithm that finds the the midpoint meetup place between shared commuters. This way no rider feels like they are doing more "work" than the others.
 
 *Plan -> Prod*
+<br/><br/>
 <div style="display: inline-block;">
   <img src="assets/zave-plan.gif"  width="525">
   <!-- <img src="assets/zave-plan.gif"  width="295"> -->
@@ -35,7 +36,7 @@ More on Zave
 
 <br/>
 
-## Trade Cash
+## Find Cash
 Overall top 10 from 550+ Capital One Software Engineering Interns competing in a hackathon during onboarding week. Built using Swift and Python(Flask), SQLite and Zeplin design.<br/> <br/>
 
 - **Problem** In a world of scale and a battle of margins, small cash businesses are taking the biggest hits with credit card minimums or ATM fees for customer withdrawals.
@@ -45,7 +46,7 @@ Overall top 10 from 550+ Capital One Software Engineering Interns competing in a
 - **Iteration** Increase reliability that both parties deliver by building a credit-score-like system.
 
 *Plan -> Prod*
-<br/>
+<br/><br/>
 <div style="display: inline-block;">
   <img src="assets/alamo-plan2.gif"  width="500">
   <!-- <img src="assets/z.gif"  width="295"> -->
@@ -68,6 +69,7 @@ Demo-ed our app and presented to Facebook, Google, IBM, NYU judges and competed 
 - **Iteration** Able to crowdsource money to rescue civilians and refugees in war zones.
 
 *Plan -> Prod*
+<br/><br/>
 <div style="display: inline-block;">
   <img src="assets/upliftPlan.gif"  width="450">
   <!-- <img src="assets/z.gif"  width="295"> -->
