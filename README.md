@@ -10,14 +10,34 @@ Mastering iOS development by completing 30+ apps in a short period of time.
 
 
 # Problem-Driven Projects
+## Zave
+- **Problem** We frequently crave a premium travel experience offered by ride-sharing apps but we are going broke.
+
+- **Solution** Zave connects ride-share users to split Uber/Lyft at metro price by connecting local ride-shares with shared destinations.
+
+- **Iteration** Create an algorithm that finds the the midpoint meetup place between shared commuters. This way no rider feels like they are doing more "work" than the others.
+
+Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lead teams in San Francisco. [CodePath](https://codepath.org/)
+
+![Walkthrough](assets/zave.gif)
+<!-- ![Walkthrough](assets/zave-wireframe.jpg) -->
+<img src="assets/zave-wireframe.jpg"  width="75%">
+<!-- ![Walkthrough]() -->
+
+More on Zave
+- [Pitch Deck](assets/zave-ppt)
+- [My Presentation (YouTube)](https://www.youtube.com/watch?v=6r5Ytpu9XV8)
+- [Visit Project Repo](https://github.com/ZaveApp/product)
+
+
 
 # Feature-Driven Projects
-## Add Table View Row 
-- **Feature** add a custom tablw view row from a differnt segue 
+## Add Table View Row
+- **Feature** add a custom table view row from a different segue
 
 - **Stack** xcode 10.2 swift 5
 
-- **Takeaway** 
+- **Takeaway**
     - uibutton > attributes inspctor > system item > deault buttons
 
 ### send data from add table VC
@@ -57,12 +77,12 @@ carTableView.reloadData()
 
 # Debug
 - error: SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2._  
-    - Fix : .xcw workspace > blue pod/proj file > build settings > swift lang > change to 4.2 or desirable 
-- error: Multiple commands produce_ 
+    - Fix : .xcw workspace > blue pod/proj file > build settings > swift lang > change to 4.2 or desirable
+- error: Multiple commands produce_
     - Fix : Open target > Build phases > Copy Bundle Resources and remove info.plist from there.
 
 
-# Git 
+# Git
 ## Branch + Merge
 - **Create Branch:** "git checkout ____" creates subbranch from current head
 - I am calling the sub-branch's origin branch parent. It could be called master, feature/..., releases, etc
@@ -81,7 +101,7 @@ carTableView.reloadData()
 - git init
 - echo "#repo-name" > README.md
 - git commit -am" "
-- create the git repo online WITHOUT a README. Then copy the code from the section that reads: **"...or push an existing repository from the command line"** 
+- create the git repo online WITHOUT a README. Then copy the code from the section that reads: **"...or push an existing repository from the command line"**
 - git push (-u origin master)
 
 

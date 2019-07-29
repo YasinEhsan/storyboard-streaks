@@ -1,7 +1,4 @@
-# README Boilerplate
-<!-- Description here -->
-
-## 
+##
 - **Problem**
 
 - **Solution**
@@ -11,6 +8,4 @@
 ![Walkthrough]()
 ![Walkthrough]()
 ![Walkthrough]()
-<!-- [Visit Project]() -->
-
-# Debug
+<!-- [Visit Project Repo]() -->
