@@ -25,9 +25,9 @@ Overall 2nd place from 40+ teams part of the 12-week iOS bootcamp trained by lea
 
 <!-- ![Walkthrough](assets/zave-wireframe.jpg) -->
 
-<img src="assets/zave-wireframe.jpg"  width="400">
-<img src="assets/zave-marvel.gif"  width="200">
-<img src="assets/zave.gif"  width="300">
+<img src="assets/zave-wireframe.jpg"  width="600">
+<!-- <img src="assets/zave-marvel.gif"  width="200"> -->
+<img src="assets/zave.gif"  width="400">
 </div>
 
 More on Zave
