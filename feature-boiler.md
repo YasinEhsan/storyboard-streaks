@@ -5,8 +5,7 @@
 
 - **Takeaway**
 
-![Walkthrough]()
-![Walkthrough]()
+<!--![Walkthrough]()-->
+<!--![Walkthrough]()-->
 <!-- [Visit Project]() -->
 
-## Boiler

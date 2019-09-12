@@ -137,30 +137,28 @@ More on HomeDrive
 
 <br/>
 
-
+
 
 
 
 # Feature-Driven Projects
 
-## project-notes
+## summer-project-notes
 - **Feature** geofencing, overlays, pin-drop, notifications, protocols, optionals, mapkit, corelocations,
 
 - **Stack** swift 5, xcode 10.2
 
 - **Takeaway**
-        - blue dot aka real time location not showing. Didn't add my NSexceptions to plist.
-        - MKCircle is used for overlay
-        - a subclass cannot override instabce variables BUT it can override methods  <!-- line break -->
-        - fileprivate/internal vs private. the latter is more restricted within a scope not file
-        - whenever you create an optional varaible proprty "?" than you have to unwarp it using *if let* or *gaurd else*
-        - ternary conditional operator **condition ? something : something else**
-        <!-- line break -->
-        -  numArry.sort {$0 > $1} //sorts in decending order
-        -   return multiple parameteres
-                - *func nearestDealers(distances: [Int : CLLocation]) -> ( [CLLocation], Double)*
-
-- **CLLocation vs CLLocationCoordinate2D**
+    - blue dot aka real time location not showing. Didn't add my NSexceptions to plist.
+    - MKCircle is used for overlay
+    - a subclass cannot override instabce variables BUT it can override methods  <!-- line break -->
+    - fileprivate/internal vs private. the latter is more restricted within a scope not file
+    - whenever you create an optional varaible proprty "?" than you have to unwarp it using *if let* or *gaurd else*
+    - ternary conditional operator **condition ? something : something else**
+    - numArry.sort {$0 > $1} //sorts in decending order
+    -  return multiple parameteres
+    - *func nearestDealers(distances: [Int : CLLocation]) -> ( [CLLocation], Double)*
+    - **CLLocation vs CLLocationCoordinate2D**
         - the former is a class, has varibles like the latter, has functions like .distance from, and can be init using lat long
         - the latter is a struct, has a few methods including CLLocationCoordinate2dMake
         - the former is smooves
