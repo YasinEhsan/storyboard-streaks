@@ -690,6 +690,8 @@ carTableView.reloadData()
 
 
 # Git
+## .gitignore .gitattributes 
+- [dope codepath link](https://guides.codepath.com/ios/Using-Git-with-Terminal)
 ## Branch + Merge
 - **Create Branch:** "git checkout ____" creates subbranch from current head
 - I am calling the sub-branch's origin branch parent. It could be called master, feature/..., releases, etc
